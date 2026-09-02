@@ -2,7 +2,7 @@
   APNA AFFILIATE LINK YAHAN PASTE KAREIN
 */
 
-const affiliateLink = "PASTE_YOUR_AFFILIATE_LINK_HERE";
+const affiliateLink = "https://bitli.in/t64sw0Q";
 
 const productLink = document.getElementById("productLink");
 
