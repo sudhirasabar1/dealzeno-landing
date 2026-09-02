@@ -3,7 +3,7 @@
 */
 const AFFILIATE_LINK = "PASTE-YOUR-AFFILIATE-LINK-HERE";
 
-const TELEGRAM_LINK = "https://t.me/YOUR_CHANNEL";
+const TELEGRAM_LINK = "https://t.me/dealzeno2";
 
 document.getElementById("productLink").href = AFFILIATE_LINK;
 document.getElementById("telegramLink").href = TELEGRAM_LINK;
