@@ -188,3 +188,22 @@ footer {
         font-size: 28px;
     }
 }
+.telegram-button {
+    width: 100%;
+    padding: 15px;
+    margin-top: 12px;
+    border-radius: 10px;
+    text-align: center;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 15px;
+    background: #229ED9;
+    color: white;
+    display: block;
+    transition: 0.2s;
+}
+
+.telegram-button:hover {
+    transform: translateY(-2px);
+    opacity: 0.9;
+}
